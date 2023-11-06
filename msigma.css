@@ -1,0 +1,89 @@
+.heading{
+    color: #1b75bb;
+    font-weight: 700;
+    font-family: Rubik,sans-serif;
+    line-height: 30%;
+}
+body{
+    text-align: center;
+}
+.paraheading{
+    font-family: Rubik,sans-serif;
+    line-height: 100%;
+    color: #555;
+    margin-left: 24%;
+    margin-right: 24%;
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+.inner{
+    display: flex;
+    width: 700px;
+    color: #555;
+   height: 230px;
+   padding-left: 250px;
+}
+.list{
+    flex: 1;
+    align-items: center;
+    margin: 20px;
+    border-radius: 15px;
+    line-height: 130%;
+    box-shadow: 0 8px 25px rgba(0,0,0,.1);
+}
+.button-list{
+    color: rgb(27, 117, 187);
+    border: 1px solid rgb(27, 117, 187);
+    background-color: rgba(27, 117, 187, 0.05);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+  .color0{
+    color: rgb(245,155,39);
+  }
+  .color1{
+    color: rgb(35,248,255);
+  }
+  .color2{
+    color: rgb(255,64,64);
+  }
+  .color3{
+    color: rgb(255,95,231);
+  }
+  .color4{
+    color: rgb(79,255,88);
+  }
+  .color5{
+    color: rgb(84,84,255);
+  }
+  .colorb0{
+    color: rgb(245,155,39);
+    border: 1px solid  rgb(245,155,39);
+  }
+  .colorb1{
+    color: rgb(35,248,255);
+    border: 1px solid  rgb(35,248,255);
+  }
+  .colorb2{
+    color: rgb(255,64,64);
+    border: 1px solid  rgb(255,64,64);
+  }
+  .colorb3{
+    color: rgb(255,95,231);
+    border: 1px solid  rgb(255,95,231);
+  }
+  .colorb4{
+    color: rgb(79,255,88);
+    border: 1px solid  rgb(79,255,88);
+  }
+  .colorb5{
+    color: rgb(84,84,255);
+    border: 1px solid  rgb(84,84,255);
+  }  
